@@ -8,6 +8,7 @@ import (
 
 	"github.com/AriJaya07/go-bookstore/pkg/models"
 	"github.com/AriJaya07/go-bookstore/pkg/utils"
+	_ "github.com/go-sql-driver/mysql"
 	"github.com/gorilla/mux"
 )
 
